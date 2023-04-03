@@ -19,7 +19,7 @@ Environment
 
 - Kotlin 1.8.0
 - Android Studio Electric Eel 2022.1.1
-- Gradle Plugin 7.4.1
+- Gradle Plugin 7.4.2
 
 ---
 
@@ -27,5 +27,5 @@ Environment
 language: kotlin
 repo: affirmations
 status: archived
-updated: 2023-02-10
+updated: 2023-04-03
 ```
