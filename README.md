@@ -17,9 +17,9 @@ tags: Material Design, Recycler View, Datasource, Tests
 
 Environment
 
-- Kotlin 1.8.0
-- Android Studio Electric Eel 2022.1.1
-- Gradle Plugin 7.4.2
+- Kotlin 1.8.10
+- Android Studio Flaming0 2022.2.1
+- Gradle Plugin 8.0.0
 
 ---
 
@@ -27,5 +27,5 @@ Environment
 language: kotlin
 repo: affirmations
 status: archived
-updated: 2023-04-03
+updated: 2023-04-13
 ```
