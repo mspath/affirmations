@@ -5,6 +5,7 @@ import com.example.affirmations.model.Affirmation
 
 class Datasource {
 
+    // TODO generate personalized affirmations with a chat bot
     fun loadAffirmations(): List<Affirmation> {
         return listOf<Affirmation>(
             Affirmation(R.string.affirmation1, R.drawable.image1),
